@@ -3,7 +3,7 @@ go-samples is a sample test project added for learning basics in golang
 along with a basic understanding of git workflow.
 
 ## Overview
-This is totally a learning excersise to illustrate/practice the following:-
+This is a learning excersise to illustrate/practice the following:-
 1. Create a repo
 2. Add/Edit file and commit
 3. Create a branch for some changes
